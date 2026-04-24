@@ -1,5 +1,3 @@
-Unos Podataka Via Scanner / User Input via Scanner
-
 EN
 
 A Java exercise introducing the Scanner class for reading user input from the console. The program lets the user enter any number of products with a name and price, stores them in an ArrayList, and then prints all entries.
